@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "MathGame",
+"productVersion": "1.0.2",
+"dataUrl": "ver1.0.2.data.unityweb",
+"wasmCodeUrl": "ver1.0.2.wasm.code.unityweb",
+"wasmFrameworkUrl": "ver1.0.2.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": true,
+"multithreading": false,
+"unityVersion": "2019.3.9f1"
+}
